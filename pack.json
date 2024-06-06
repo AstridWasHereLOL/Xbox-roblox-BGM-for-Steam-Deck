@@ -1,0 +1,10 @@
+{
+  "name": "Roblox BGM",
+  "description": "Music from the Xbox One edition of Roblox. Credits to https://www.youtube.com/watch?v=m80z7ZMtpKU for providing music.",
+  "author": "AstridWasHereLOL",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
